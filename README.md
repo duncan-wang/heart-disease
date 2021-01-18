@@ -27,10 +27,10 @@ After testing multiple machine learning models, I found that the K-Nearest Neigh
 - **heart_disease (target)**: 0 = absence, 1,2,3,4 = some degree of presence
 
 **Original Data Source**: 
-    - 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-    - 2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-    - 3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-    - 4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
-    - https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+- 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+- 2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+- 3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+- 4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+- https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 - Permissions: Open source, data has been anonymized, no sensitive information included
 
