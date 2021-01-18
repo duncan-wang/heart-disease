@@ -1,6 +1,8 @@
 # Heart Disease Prediction
 ## By: Duncan Wang
 
+Predicting heart-disease using ML classification
+
 The purpose of this project is to use a set of 303 patient health records containing various patient demographic characteristics and cardiovascular health related test metrics to predict whether or not a patient will be diagnosed with heart disease. 
 
 After testing multiple machine learning models, I found that the K-Nearest Neighbors Algorithm performed most optimally at predicting heart disease, outperforming even Gradient Boost and Random Forest. The performance of the optimized KNN model is as follows:
