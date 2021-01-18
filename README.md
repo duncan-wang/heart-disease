@@ -1,6 +1,4 @@
 # Heart Disease Prediction
-## By: Duncan Wang
-
 Predicting heart-disease using ML classification
 
 The purpose of this project is to use a set of 303 patient health records containing various patient demographic characteristics and cardiovascular health related test metrics to predict whether or not a patient will be diagnosed with heart disease. 
