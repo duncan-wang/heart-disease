@@ -7,10 +7,10 @@ The purpose of this project is to use a set of 303 patient health records contai
 
 After testing multiple machine learning models, I found that the K-Nearest Neighbors Algorithm performed most optimally at predicting heart disease, outperforming even Gradient Boost and Random Forest. The performance of the optimized KNN model is as follows:
 
-- accuracy:  0.8571428571428571
-- precision:  0.8536585365853658
-- recall:  0.8333333333333334
-- f1 score:  0.8433734939759037
+- accuracy:  0.857
+- precision:  0.854
+- recall:  0.833
+- f1 score:  0.843
 
 **Attribute Descriptions**
 - **age**: age of the patient
